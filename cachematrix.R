@@ -5,7 +5,6 @@
 
 ## Write a short comment describing this function
 ## Creates a special "matrix" object that can cache its inverse.
-## Returns an environment with 4 slots:
 ## - x: stores the original matrix
 ## - inv: stores the cached inverse (initialized as zero matrix)
 ## Provides functions to set, get inverse and check if in cache
